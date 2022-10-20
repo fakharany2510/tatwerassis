@@ -60,6 +60,7 @@ dev_dependencies:
   firebase_messaging: ^11.2.5
   firebase_phone_auth_handler:
   lottie: ^1.4.1
+  expandable_bottom_sheet: ^1.1.1+1
 
 
 
