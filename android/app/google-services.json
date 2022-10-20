@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "146326878126",
+    "project_id": "tatweer-b1f7f",
+    "storage_bucket": "tatweer-b1f7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146326878126:android:2eb28b434ba7cfe5cdfa3f",
+        "android_client_info": {
+          "package_name": "com.example.tatwerassis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146326878126-v5lk1oq5ckl6l43o65k0b5gg9do3oi1c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tatwerassis",
+            "certificate_hash": "57eddf61085a8e62b1155d3651b80ede2c949001"
+          }
+        },
+        {
+          "client_id": "146326878126-7pa14m8aq8e6ha9gd55q3fqapl53dfg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzvWfcgFjbXu44LgefCrohGemrAvlctAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146326878126-7pa14m8aq8e6ha9gd55q3fqapl53dfg0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
